@@ -34,3 +34,4 @@ git clone https://github.com/miubat/DemoOrangeHRM-B10-TestNG.git
 ## Configuration
 Update the test configuration as needed in the src/test/resources/config.properties file. Provide necessary details such as application URL, credentials, etc.
 ## Test Reports
+![DemoOrangeHRM-test-report](https://github.com/miubat/Demo-OrangeHRM-TestNG-project/assets/96487335/20524d42-e645-4b36-bb9d-2451a9fb9a12)
